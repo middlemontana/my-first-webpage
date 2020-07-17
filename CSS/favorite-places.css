@@ -1,0 +1,22 @@
+h1 {
+    color: rebeccapurple;
+    font-size: large;
+    text-align: center;
+    text-decoration: underline;
+}
+
+li {
+    font-style: italic;
+}
+
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+
+    
+}
+
+h3 {
+    font-size: larger;
+}
